@@ -4,8 +4,6 @@
   {% for post in posts %}  
     <article class="media content-section">
       {% if post.author.profile.image %}
-        <img class="rounded-circle account-img" src="{{ post.author.profile.image.url }}">
-      {% else %}
         <img class="rounded-circle account-img" src="{% static 'users/default.webp' %}">
       {% endif %}
       <div class="media-body">
