@@ -74,7 +74,8 @@ To run this project locally, follow these steps:
    python manage.py runserver
    ```
 
-8. **Open your web browser and navigate to:** ```
+8. **Open your web browser and navigate to:** 
+   ```bash
    http://127.0.0.1:8000/
    ```
 
