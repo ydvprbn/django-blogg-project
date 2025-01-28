@@ -6,7 +6,6 @@ This project is a full-fledged blog website built using Django, a high-level Pyt
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
